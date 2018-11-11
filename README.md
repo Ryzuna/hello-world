@@ -1,2 +1,5 @@
 # hello-world
-learn github
+
+hi humans
+
+I like video games and basketball, what do you like?
